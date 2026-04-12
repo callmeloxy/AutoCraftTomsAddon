@@ -2,12 +2,12 @@
 
 Choose your language / Choisissez votre langue
 
-- [English](./README_EN.md)
-- [Français](./README_FR.md)
+- [English](https://github.com/callmeloxy/AutoCraftTomsAddon/blob/main/README_EN.md))
+- [Français](https://github.com/callmeloxy/AutoCraftTomsAddon/blob/main/README_FR.md)
 
 ## Quick Links / Liens rapides
 
-- [Issues](https://github.com/callmeloxy/CobbleSpawnAlert-Reforged/issues)
+- [Issues](https://github.com/callmeloxy/AutoCraftTomsAddon/issues)
 - [Changelog Fabric](https://github.com/callmeloxy/AutoCraftTomsAddon/blob/main/fabric/CHANGELOG.md)
 - [Changelog Neoforge](https://github.com/callmeloxy/AutoCraftTomsAddon/blob/main/neoforge/CHANGELOG.md)
 - [Discord](https://discord.gg/NsNGDKxrYr)
