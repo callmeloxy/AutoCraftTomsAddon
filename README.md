@@ -1,4 +1,4 @@
-# CobbleSpawnAlert Reforged
+# AutoCraftTomsAddon
 
 Choose your language / Choisissez votre langue
 
@@ -8,8 +8,8 @@ Choose your language / Choisissez votre langue
 ## Quick Links / Liens rapides
 
 - [Issues](https://github.com/callmeloxy/CobbleSpawnAlert-Reforged/issues)
-- [Changelog Fabric](https://github.com/callmeloxy/CobbleSpawnAlert-Reforged/blob/main/fabric/CHANGELOG.md)
-- [Changelog Neoforge](https://github.com/callmeloxy/CobbleSpawnAlert-Reforged/blob/main/neoforge/CHANGELOG.md)
+- [Changelog Fabric](https://github.com/callmeloxy/AutoCraftTomsAddon/blob/main/fabric/CHANGELOG.md)
+- [Changelog Neoforge](https://github.com/callmeloxy/AutoCraftTomsAddon/blob/main/neoforge/CHANGELOG.md)
 - [Discord](https://discord.gg/NsNGDKxrYr)
 
 ## Important
