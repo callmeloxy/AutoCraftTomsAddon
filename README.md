@@ -2,7 +2,7 @@
 
 Choose your language / Choisissez votre langue
 
-- [English](https://github.com/callmeloxy/AutoCraftTomsAddon/blob/main/README_EN.md))
+- [English](https://github.com/callmeloxy/AutoCraftTomsAddon/blob/main/README_EN.md)
 - [Français](https://github.com/callmeloxy/AutoCraftTomsAddon/blob/main/README_FR.md)
 
 ## Quick Links / Liens rapides
