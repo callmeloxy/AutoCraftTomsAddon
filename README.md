@@ -9,7 +9,7 @@ Choose your language / Choisissez votre langue
 
 - [Issues](https://github.com/callmeloxy/AutoCraftTomsAddon/issues)
 - [Changelog Fabric](https://github.com/callmeloxy/AutoCraftTomsAddon/blob/main/fabric/CHANGELOG.md)
-- [Changelog Neoforge](https://github.com/callmeloxy/AutoCraftTomsAddon/blob/main/neoforge/CHANGELOG.md)
+- [Changelog Neoforge](https://github.com/callmeloxy/AutoCraftTomsAddon/blob/main/neoforge/CHANGELOG.md) WIP
 - [Discord](https://discord.gg/NsNGDKxrYr)
 
 ## Important
