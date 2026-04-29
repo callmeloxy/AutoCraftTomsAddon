@@ -35,7 +35,7 @@ This repository does **not** contain the source code.
 
 If you would like to host a server for AutoCraftTomAddon while supporting the project, you can use this BisectHosting partner link:
 
-- [BisectHosting]https://www.bisecthosting.com/curseforge?curseforge_project_id=1511868&dl=1)
+- [BisectHosting](https://www.bisecthosting.com/curseforge?curseforge_project_id=1511868&dl=1)
 
 ## Downloads
 
