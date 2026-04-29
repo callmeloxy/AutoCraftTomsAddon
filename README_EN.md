@@ -35,12 +35,12 @@ This repository does **not** contain the source code.
 
 If you would like to host a server for AutoCraftTomAddon while supporting the project, you can use this BisectHosting partner link:
 
-- [BisectHosting](https://url-shortener.curseforge.com/2LxIY)
+- [BisectHosting]https://www.bisecthosting.com/curseforge?curseforge_project_id=1511868&dl=1)
 
 ## Downloads
 
 - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/auto-craft-toms-addon)
-- [Modrinth](https://modrinth.com/mod/auto-craft-toms-addon) Under Review
+- [Modrinth](https://modrinth.com/mod/auto-craft-toms-addon)
 
 ## Development Status
 
