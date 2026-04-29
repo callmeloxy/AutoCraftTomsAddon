@@ -40,7 +40,13 @@ Si vous souhaitez héberger un serveur pour AutoCraftTomAddon tout en soutenant 
 ## Téléchargements
 
 - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/auto-craft-toms-addon)
-- [Modrinth](https://modrinth.com/mod/auto-craft-toms-addon) En cours de validation
+- [Modrinth](https://modrinth.com/mod/auto-craft-toms-addon)
+
+## Hébergement de serveur
+
+If you would like to host a server for CobbleSpawnAlert Reforged while supporting the project, you can use this BisectHosting partner link:
+
+- [BisectHosting]https://www.bisecthosting.com/curseforge?curseforge_project_id=1511868&dl=1)
 
 ## État du développement
 
