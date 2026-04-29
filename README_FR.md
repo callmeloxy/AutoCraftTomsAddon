@@ -35,7 +35,7 @@ Ce dépôt ne contient **pas** le code source.
 
 Si vous souhaitez héberger un serveur pour AutoCraftTomAddon tout en soutenant le projet, vous pouvez utiliser ce lien partenaire BisectHosting :
 
-- [BisectHosting](https://url-shortener.curseforge.com/2LxIY)
+- [BisectHosting](https://url-shortener.curseforge.com/2LxIY](https://www.bisecthosting.com/curseforge?curseforge_project_id=1511868&dl=1)
 
 ## Téléchargements
 
