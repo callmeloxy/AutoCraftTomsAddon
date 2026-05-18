@@ -1,5 +1,34 @@
 # Changelog
 
+## 1.6.0
+
+### Summary
+
+This update adds multi-selection support for templates, allowing multiple templates to be deleted or assigned to a group at once.
+
+### Added
+
+- Added multi-selection for templates using `Ctrl + Click`
+- Added support for deleting multiple selected templates at once
+- Added support for assigning multiple selected templates to a group at once
+- Added a dedicated `Group Options` button to open group management
+- Added support for deleting empty custom groups from the group options screen
+
+### Improved
+
+- Improved the template screen button layout
+- Improved button readability by separating template actions and group actions into two rows
+- Improved group management access by making `Group Options` available even when no template is selected
+- Improved the group name field placeholder behavior so it disappears as soon as text is entered
+- Improved safety around rename behavior: templates can only be renamed when a single template is selected
+
+### Notes
+
+- `Ctrl + Click` is used for multi-selection in this version
+- Double-click still loads a single template as before
+- Rename is disabled when multiple templates are selected
+- Group assignment now supports one or multiple selected templates
+
 ## 1.5.0
 
 ### Summary
